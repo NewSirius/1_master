@@ -5,4 +5,8 @@ public class Main {
         System.out.println("Вторая строка мастера");
         System.out.println("Третья строка Чудаков");
     }
+
+    public Clazz    {
+
+    }
 }
